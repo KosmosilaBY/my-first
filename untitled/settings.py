@@ -25,7 +25,7 @@ SECRET_KEY = '##i53x_ne&-#m+3(!u9oo85*^&h!f((n^l^i$3z0mpo*1ajaxw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Kostya.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kosmosilaby.pythonanywhere.com']
 
 
 # Application definition
